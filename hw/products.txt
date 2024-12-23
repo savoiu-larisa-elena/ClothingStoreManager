@@ -1,0 +1,9 @@
+M|Coal_Blue|10|1000|https://row.burberry.com/mid-length-kensington-heritage-trench-coat-p80592441
+S|Multicolour|7|2500|https://www.fendi.com/ro-en/man/ready-to-wear/trench-coat-ff-jacquard-fabric-trench-coat-ff0671al5wf1440?queryID=372a84bfee950a4311c164656dfcb4b2&objectID=FF0671AL5WF1440&indexName=production_eu01_fendi_demandware_net__DE__products__en_RO&_gl=1*f16w98*_up*MQ..&gclid=Cj0KCQjw5cOwBhCiARIsAJ5njuaBnpONgPf96yNmRYI145Vc3K325uYpHI2RnjIkwJHci5Lz8WsY6FoaAnj8EALw_wcB&gclsrc=aw.ds
+XL|Limestone|6|3000|https://www.miumiu.com/ww/en/p/single-breasted-gabardine-coat/MS1934_12MB_F0A08_S_231
+M|Topaz|8|3500|https://www.miumiu.com/ww/en/p/padded-single-breasted-tweed-coat/MS1967_1L5Q_F0040_S_232
+S|Dark_Nude|4|4500|https://www.oscardelarenta.com/shop/p/abstract-ombre-satin-trench-coat-24879?categoryid=0
+XXL|Powder_Blue_Mul|2|5000|https://www.oscardelarenta.com/shop/p/abstract-landscape-fil-coupe-coat-24326?categoryid=0
+XS|Black|9|5500|https://www.schiaparelli.com/eshop/en/e-shop/ready-to-wear/jackets-and-coats/suede-hourglass-coat/p/ma00059300_999-t34
+L|Black_Double_Wool_Crepe|1|10000|https://www.schiaparelli.com/eshop/en/e-shop/ready-to-wear/jackets-and-coats/measuring-tape-coat-with-embroidery/p/ph22ma111026s_999-t34
+L|Otter|5|2000|https://row.burberry.com/long-castleford-trench-coat-p80774191

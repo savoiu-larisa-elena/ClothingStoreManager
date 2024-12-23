@@ -1,0 +1,15 @@
+﻿  Reading Qt configuration (C:/Qt/6.7.0/msvc2019_64/bin/qmake)
+  action.cpp
+  repository.cpp
+  services.cpp
+  tests.cpp
+  validator.cpp
+  domain.cpp
+  hw.cpp
+  main.cpp
+C:\Users\lari\Desktop\facultate\anul1\semestrul2\ObjectOrientedProgramming\oop-a10-916-savoiu-larisa\hw\hw\hw\repository.cpp(86,24): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\lari\Desktop\facultate\anul1\semestrul2\ObjectOrientedProgramming\oop-a10-916-savoiu-larisa\hw\hw\hw\hw.cpp(28,50): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lari\Desktop\facultate\anul1\semestrul2\ObjectOrientedProgramming\oop-a10-916-savoiu-larisa\hw\hw\hw\hw.cpp(737,50): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  qrc_hw.cpp
+  moc_hw.cpp
+  hw.vcxproj -> C:\Users\lari\Desktop\facultate\anul1\semestrul2\ObjectOrientedProgramming\oop-a10-916-savoiu-larisa\hw\hw\x64\Debug\hw.exe
